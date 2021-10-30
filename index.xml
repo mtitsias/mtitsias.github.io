@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michalis Titsias Website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Michalis Titsias Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/home/</guid>
+      <description>Michalis Titsias is full time Research Scientist at DeepMind  based on London, UK. Before he was an Assistant Professor in the department of Informatics in Athens University of Economics and Business (AUEB).  and he has also worked in the University of Oxford and University of Manchester. He holds Ph.D degree from University of Edinburgh, an undergraduate Diploma and a M.Sc. in Computer Science from University of Ioannina, Greece.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://localhost:1313/recent_publications/</link>
+      <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/recent_publications/</guid>
+      <description>M. Hirt, M. K. Titsias, P. Dellaportas. Entropy-based adaptive Hamiltonian Monte Carlo.  Neural
+Information Processing Systems (NeurIPS), 2021. M. K. Titsias, F. J. R. Ruiz, S. Nikoloutsopoulos and A. Galashov. Information Theoretic Meta Learning with Gaussian Processes.  37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021. F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Estimation for Variational Auto-Encoders using Coupled Markov Chains.  37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/publications/</guid>
+      <description>2021  M. Hirt, M. K. Titsias, P. Dellaportas. Entropy-based adaptive Hamiltonian Monte Carlo.  Neural
+Information Processing Systems (NeurIPS), 2021. M. K. Titsias, F. J. R. Ruiz, S. Nikoloutsopoulos and A. Galashov. Information Theoretic Meta Learning with Gaussian Processes.  37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021. F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Estimation for Variational Auto-Encoders using Coupled Markov Chains.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/talks/</guid>
+      <description>Talks    Functional Regularisation for Continual Learning with Gaussian Processes. Statistics Seminar, Barcelona School of Economics (2020) . [slides]
+  Gradient-based Adaptive Markov Chain Monte Carlo. 2th Symposium on Advances in Approximate Bayesian Inference (2019) . [slides]
+  Gradient-based Adaptive Markov Chain Monte Carlo. Cambridge University, Department of Engineering. .
+  The Hamming Ball Sampler. 3rd Meeting on Statistics (2015). [slides]
+  Distributed Kernel Representations for Variational Sparse Gaussian Processes.</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/code/</link>
+      <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/code/</guid>
+      <description>More recent code can be found in the github pages
+ Older Code    GLOMO: MATLAB Toolbox for learning layers from video.
+  MATLAB software on sampling in Gaussian processes using control variables  . Control points algorithm described in the paper: Efficient Sampling for Gaussian Process Inference using Control Variables, NIPS 2009. The software requires the minimize.m function of Carl. Rasmussen.
+  Software on sparse variational GPs.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>Courses (in Greek)    Introduction to Computer Programming (Fall 2015, Fall 2016, Fall 2017)
+  Undergraduate Course on Machine Learning. (Spring 2014, Spring 2015, Spring 2016, Fall 2017)
+  Postgraduate Course on Machine Learning. (Spring 2013, Spring 2014, Spring 2015, Spring 2016, Spring 2017)
+  Artificial Intelligence. (Fall 2014)
+  Statistics for Informatics. (Fall 2012, Fall 2013)
+  MATLAB lab courses for Computational Mathematics.</description>
+    </item>
+    
+  </channel>
+</rss>
