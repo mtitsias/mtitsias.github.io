@@ -12,7 +12,8 @@
       <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
       
       <guid>http://localhost:1313/home/</guid>
-      <description>Michalis Titsias is full time Research Scientist at DeepMind  based on London, UK. Before he was an Assistant Professor in the department of Informatics at Athens University of Economics and Business (AUEB) , and postdoctoral Researcher at the University of Oxford and University of Manchester. He obtained his Ph.D from University of Edinburgh. He holds an undergraduate Diploma and M.Sc. degree in Computer Science from University of Ioannina, Greece.</description>
+      <description>Michalis Titsias is full time Research Scientist at DeepMind based on London, UK. Before he was an Assistant Professor in the department of Informatics at Athens University of Economics and Business (AUEB), and Postdoctoral Researcher at the University of Oxford and University of Manchester. He obtained his Ph.D from University of Edinburgh. He holds an undergraduate Diploma and M.Sc. degree in Computer Science from University of Ioannina, Greece.
+Research Interests  Machine Learning, Deep Learning, Reinforcement Learning Continual Learning, Transfer Learning Gaussian Processes, Bayesian Methods MCMC, Variational Inference Stochastic Gradient Estimation  </description>
     </item>
     
     <item>
@@ -22,8 +23,8 @@
       
       <guid>http://localhost:1313/recent_publications/</guid>
       <description>M. Hirt, M. K. Titsias, P. Dellaportas. Entropy-based adaptive Hamiltonian Monte Carlo. Neural Information Processing Systems (NeurIPS), 2021.
-M. K. Titsias, F. J. R. Ruiz, S. Nikoloutsopoulos and A. Galashov. Information Theoretic Meta Learning with Gaussian Processes. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
-F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Estimation for Variational Auto-Encoders using Coupled Markov Chains. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.</description>
+M. K. Titsias, F. J. R. Ruiz, S. Nikoloutsopoulos and A. Galashov. Informat ion Theoretic Meta Learning with Gaussian Processes. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
+F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Es timation for Variational Auto-Encoders using Coupled Markov Chains. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.</description>
     </item>
     
     <item>
@@ -57,9 +58,9 @@ F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Estimat
       
       <guid>http://localhost:1313/code/</guid>
       <description>More recent code can be found in the github pages.
-Older Code   GLOMO: MATLAB Toolbox for learning layers from video.
-  MATLAB software on sampling in Gaussian processes using control variables. Control points algorithm described in the paper: Efficient Sampling for Gaussian Process Inference using Control Variables, NIPS 2009. The software requires the minimize.m function of Carl. Rasmussen.
-  Software on sparse variational GPs. The method described in the paper:</description>
+ Older Code    GLOMO: MATLAB Toolbox for learning layers from video.
+  MATLAB software on sampling in Gaussian processes using control variables . Control points algorithm described in the paper: Efficient Sampling for Gaussian Process Inference using Control Variables, NIPS 2009. The software requires the minimize.m function of Carl. Rasmussen.
+  Software on sparse variational GPs.</description>
     </item>
     
     <item>
@@ -77,12 +78,12 @@ Older Code   GLOMO: MATLAB Toolbox for learning layers from video.
       <pubDate>Sat, 30 Oct 2021 21:38:52 +0800</pubDate>
       
       <guid>http://localhost:1313/teaching/</guid>
-      <description>Courses (in Greek)   Introduction to Computer Programming. (Fall 2015, Fall 2016, Fall 2017)
+      <description>Courses (in Greek)    Introduction to Computer Programming (Fall 2015, Fall 2016, Fall 2017)
   Undergraduate Course on Machine Learning. (Spring 2014, Spring 2015, Spring 2016, Fall 2017)
   Postgraduate Course on Machine Learning. (Spring 2013, Spring 2014, Spring 2015, Spring 2016, Spring 2017)
   Artificial Intelligence. (Fall 2014)
   Statistics for Informatics. (Fall 2012, Fall 2013)
-  MATLAB lab courses for Computational Mathematics. (Fall 2012, Fall 2013)</description>
+  MATLAB lab courses for Computational Mathematics.</description>
     </item>
     
   </channel>
