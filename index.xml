@@ -13,9 +13,9 @@
       
       <guid>http://www.example.com/code/</guid>
       <description>More recent code can be found in the github pages.
-Older Code      GLOMO: MATLAB Toolbox for learning layers from video.
-  MATLAB software on sampling in Gaussian processes using control variables. Control points algorithm described in the paper: Efficient Sampling for Gaussian Process Inference using Control Variables, NIPS 2009. The software requires the minimize.m function of Carl. Rasmussen.
-  Software on sparse variational GPs.</description>
+Older Code GLOMO: MATLAB Toolbox for learning layers from video.
+MATLAB software on sampling in Gaussian processes using control variables. Control points algorithm described in the paper: Efficient Sampling for Gaussian Process Inference using Control Variables, NIPS 2009. The software requires the minimize.m function of Carl. Rasmussen.
+Software on sparse variational GPs. The method described in the paper: Variational Learning of Inducing Variables in Sparse Gaussian Processes.</description>
     </item>
     
     <item>
@@ -33,9 +33,9 @@ Older Code      GLOMO: MATLAB Toolbox for learning layers from video.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/publications/</guid>
-      <description>2021    M. Hirt, M. K. Titsias, P. Dellaportas. Entropy-based adaptive Hamiltonian Monte Carlo. Neural Information Processing Systems (NeurIPS), 2021.
-M. K. Titsias, F. J. R. Ruiz, S. Nikoloutsopoulos and A. Galashov. Information Theoretic Meta Learning with Gaussian Processes. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
-F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Estimation for Variational Auto-Encoders using Coupled Markov Chains.</description>
+      <description>2023 A. Alexopoulos, P. Dellaportas and M. K. Titsias. Variance reduction for Metropolis–Hastings samplers. Stat Comput 33, 6 (2023).
+2022 J. Shi, Y. Zhou, J. Hwang, M. K. Titsias and L. Mackey. Gradient Estimation with Discrete Stein Operators. Neural Information Processing Systems (NeurIPS), 2022. NeurIPS 2022 Outstanding Paper Award
+M. K. Titsias and J. Shi. Double Control Variates for Gradient Estimation in Discrete Latent Variable Models. 25rd International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.</description>
     </item>
     
     <item>
@@ -44,9 +44,9 @@ F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Estimat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/recent_publications/</guid>
-      <description>M. Hirt, M. K. Titsias, P. Dellaportas. Entropy-based adaptive Hamiltonian Monte Carlo. Neural Information Processing Systems (NeurIPS), 2021.
-M. K. Titsias, F. J. R. Ruiz, S. Nikoloutsopoulos and A. Galashov. Information Theoretic Meta Learning with Gaussian Processes. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
-F. J. R. Ruiz, M. K. Titsias, T. Cemgil and A. Doucet. Unbiased Gradient Estimation for Variational Auto-Encoders using Coupled Markov Chains. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.</description>
+      <description>A. Alexopoulos, P. Dellaportas and M. K. Titsias. Variance reduction for Metropolis–Hastings samplers. Stat Comput 33, 6 (2023).
+J. Shi, Y. Zhou, J. Hwang, M. K. Titsias and L. Mackey. Gradient Estimation with Discrete Stein Operators. Neural Information Processing Systems (NeurIPS), 2022. NeurIPS 2022 Outstanding Paper Award
+M. K. Titsias and J. Shi. Double Control Variates for Gradient Estimation in Discrete Latent Variable Models. 25rd International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.</description>
     </item>
     
     <item>
@@ -69,11 +69,12 @@ Distributed Kernel Representations for Variational Sparse Gaussian Processes.</d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/teaching/</guid>
-      <description>Courses (in Greek) I taught at Athens University of Economics and Business (AUEB)      Introduction to Computer Programming. (Fall 2015, Fall 2016, Fall 2017)
-  Undergraduate Course on Machine Learning. (Spring 2014, Spring 2015, Spring 2016, Fall 2017)
-  Postgraduate Course on Machine Learning. (Spring 2013, Spring 2014, Spring 2015, Spring 2016, Spring 2017)
-  Artificial Intelligence. (Fall 2014)
-  Statistics for Informatics.</description>
+      <description>Courses (in Greek) I taught at Athens University of Economics and Business (AUEB) Introduction to Computer Programming. (Fall 2015, Fall 2016, Fall 2017)
+Undergraduate Course on Machine Learning. (Spring 2014, Spring 2015, Spring 2016, Fall 2017)
+Postgraduate Course on Machine Learning. (Spring 2013, Spring 2014, Spring 2015, Spring 2016, Spring 2017)
+Artificial Intelligence. (Fall 2014)
+Statistics for Informatics. (Fall 2012, Fall 2013)
+MATLAB lab courses for Computational Mathematics. (Fall 2012, Fall 2013)</description>
     </item>
     
   </channel>
