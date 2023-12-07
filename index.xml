@@ -33,9 +33,10 @@ Software on sparse variational GPs. The method described in the paper: Variation
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/publications/</guid>
-      <description>2023 A. Alexopoulos, P. Dellaportas and M. K. Titsias. Variance reduction for Metropolis–Hastings samplers. Stat Comput 33, 6 (2023).
+      <description>2023 M. K. Titsias. Optimal Preconditioning and Fisher Adaptive Langevin Sampling. Neural Information Processing Systems (NeurIPS), 2023.
+A. Alexopoulos, P. Dellaportas and M. K. Titsias. Variance reduction for Metropolis–Hastings samplers. Statistics and Computing 33, 6 (2023).
 2022 J. Shi, Y. Zhou, J. Hwang, M. K. Titsias and L. Mackey. Gradient Estimation with Discrete Stein Operators. Neural Information Processing Systems (NeurIPS), 2022. NeurIPS 2022 Outstanding Paper Award
-M. K. Titsias and J. Shi. Double Control Variates for Gradient Estimation in Discrete Latent Variable Models. 25rd International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.</description>
+M. K. Titsias and J.</description>
     </item>
     
     <item>
@@ -44,9 +45,10 @@ M. K. Titsias and J. Shi. Double Control Variates for Gradient Estimation in Dis
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/recent_publications/</guid>
-      <description>A. Alexopoulos, P. Dellaportas and M. K. Titsias. Variance reduction for Metropolis–Hastings samplers. Stat Comput 33, 6 (2023).
+      <description>M. K. Titsias. Optimal Preconditioning and Fisher Adaptive Langevin Sampling. Neural Information Processing Systems (NeurIPS), 2023.
+A. Alexopoulos, P. Dellaportas and M. K. Titsias. Variance reduction for Metropolis–Hastings samplers. Statistics and Computing 33, 6 (2023).
 J. Shi, Y. Zhou, J. Hwang, M. K. Titsias and L. Mackey. Gradient Estimation with Discrete Stein Operators. Neural Information Processing Systems (NeurIPS), 2022. NeurIPS 2022 Outstanding Paper Award
-M. K. Titsias and J. Shi. Double Control Variates for Gradient Estimation in Discrete Latent Variable Models. 25rd International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.</description>
+M. K. Titsias and J. Shi. Double Control Variates for Gradient Estimation in Discrete Latent Variable Models.</description>
     </item>
     
     <item>
