@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://www.example.com/code/</loc>
+    <loc>http://localhost:1313/code/</loc>
   </url><url>
-    <loc>http://www.example.com/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
   </url><url>
-    <loc>http://www.example.com/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url><url>
-    <loc>http://www.example.com/recent_publications/</loc>
+    <loc>http://localhost:1313/recent_publications/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://www.example.com/talks/</loc>
+    <loc>http://localhost:1313/talks/</loc>
   </url><url>
-    <loc>http://www.example.com/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
   </url>
 </urlset>
